@@ -1,6 +1,7 @@
- # SOC Detection Lab
+# SOC Detection Lab
 ### Security Monitoring & Incident Response — Home Lab Project
-**by Muhammad Omar** | [GitHub](https://github.com/i7-x) / [LinkedIn](https://www.linkedin.com/in/omar0x) 
+**by Muhammad Omar** | [GitHub](https://github.com/i7-x) / [LinkedIn](https://www.linkedin.com/in/omar0x)  
+**Published:** 9 March 2026 
 
 ---
 
