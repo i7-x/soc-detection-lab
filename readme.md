@@ -103,27 +103,27 @@ All evidence screenshots are in the [`screenshots/`](screenshots/) folder.
 
 | # | File | What It Shows |
 |---|------|--------------|
-| 01 | `01_virtualbox_installed.png` | VirtualBox main window |
-| 02 | `02_isos_downloaded.png` | ISOs ready for installation |
-| 03 | `03_ubuntu_server_running.png` | Ubuntu server login prompt |
-| 04 | `04_windows10_desktop.png` | Windows 10 VM running |
-| 05 | `05_kali_desktop.png` | Kali Linux desktop |
-| 06 | `06_network_connectivity.png` | Ping between VMs confirmed |
-| 07 | `07_wazuh_install_complete.png` | Wazuh install summary |
-| 08 | `08_wazuh_dashboard_login.png` | Wazuh dashboard |
-| 09 | `09_agent_installed_windows.png` | WazuhSvc running on Windows |
-| 10 | `10_agent_active_dashboard.png` | Agent showing Active in Wazuh |
-| 11 | `11_bruteforce_attack_running.png` | Hydra brute force running |
-| 12 | `12_bruteforce_alerts_wazuh.png` | Multiple logon failure alerts |
-| 13 | `13_bruteforce_alert_detail.png` | Alert detail — rule 60204 |
-| 14 | `14_nmap_scan_running.png` | Nmap scan from Kali |
-| 15 | `15_portscan_firewall_drops.png` | Firewall DROP entries confirmed |
-| 16 | `16_suspicious_commands_windows.png` | Malicious PowerShell running |
-| 17 | `17_suspicious_process_alert.png` | Wazuh alert — rule 91815 |
-| 18 | `18_privesc_commands.png` | Privilege escalation attempt |
-| 19 | `19_privesc_alert_wazuh.png` | Wazuh alert — rules 60108/60170 |
-| 20 | `20_exfiltration_kali_received.png` | Kali received the file |
-| 22 | `22_sample_incident_report.png` | Incident report IR-001 rendered |
+| 01 | [`01_virtualbox_installed.png`](screenshots/01_virtualbox_installed.png) | VirtualBox main window |
+| 02 | [`02_isos_downloaded.png`](screenshots/02_isos_downloaded.png) | ISOs ready for installation |
+| 03 | [`03_ubuntu_server_running.png`](screenshots/03_ubuntu_server_running.png) | Ubuntu server login prompt |
+| 04 | [`04_windows10_desktop.png`](screenshots/04_windows10_desktop.png) | Windows 10 VM running |
+| 05 | [`05_kali_desktop.png`](screenshots/05_kali_desktop.png) | Kali Linux desktop |
+| 06 | [`06_network_connectivity.png`](screenshots/06_network_connectivity.png) | Ping between VMs confirmed |
+| 07 | [`07_wazuh_install_complete.png`](screenshots/07_wazuh_install_complete.png) | Wazuh install summary |
+| 08 | [`08_wazuh_dashboard_login.png`](screenshots/08_wazuh_dashboard_login.png) | Wazuh dashboard |
+| 09 | [`09_agent_installed_windows.png`](screenshots/09_agent_installed_windows.png) | WazuhSvc running on Windows |
+| 10 | [`10_agent_active_dashboard.png`](screenshots/10_agent_active_dashboard.png) | Agent showing Active in Wazuh |
+| 11 | [`11_bruteforce_attack_running.png`](screenshots/11_bruteforce_attack_running.png) | Hydra brute force running |
+| 12 | [`12_bruteforce_alerts_wazuh.png`](screenshots/12_bruteforce_alerts_wazuh.png) | Multiple logon failure alerts |
+| 13 | [`13_bruteforce_alert_detail.png`](screenshots/13_bruteforce_alert_detail.png) | Alert detail — rule 60204 |
+| 14 | [`14_nmap_scan_running.png`](screenshots/14_nmap_scan_running.png) | Nmap scan from Kali |
+| 15 | [`15_portscan_firewall_drops.png`](screenshots/15_portscan_firewall_drops.png) | Firewall DROP entries confirmed |
+| 16 | [`16_suspicious_commands_windows.png`](screenshots/16_suspicious_commands_windows.png) | Malicious PowerShell running |
+| 17 | [`17_suspicious_process_alert.png`](screenshots/17_suspicious_process_alert.png) | Wazuh alert — rule 91815 |
+| 18 | [`18_privesc_commands.png`](screenshots/18_privesc_commands.png) | Privilege escalation attempt |
+| 19 | [`19_privesc_alert_wazuh.png`](screenshots/19_privesc_alert_wazuh.png) | Wazuh alert — rules 60108/60170 |
+| 20 | [`20_exfiltration_kali_received.png`](screenshots/20_exfiltration_kali_received.png) | Kali received the file |
+| 22 | [`22_sample_incident_report.png`](screenshots/22_sample_incident_report.png) | Incident report IR-001 rendered |
 
 ---
 
